@@ -1,3 +1,5 @@
+# Oh hi! This repo is old! Ignore it in favor of this nicer and more powerful version of the crawler: https://github.com/cfpb/crawsqueal
+
 # HTML Archive of consumerfinance.gov
 
 **Description**:
